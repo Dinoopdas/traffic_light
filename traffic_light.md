@@ -10,7 +10,6 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
  traffic rules. Ready to become a traffic light engineer? Let's go!
 
 
-
 ## Input-Process-Output (IPO)
 
 
