@@ -4,8 +4,6 @@
 
 Have you ever wondered how traffic lights work? In this project, you'll build your very own traffic light system using just three colored LEDs: red, yellow, and green! You'll learn how to set up a timer to automatically control the lights, just like at road intersections. You'll also add a button to control the lights manually, allowing you to decide when cars stop and go. This project will teach you about timing, automation, and the importance of traffic rules. Ready to become a traffic light engineer? Let's go!
 
-
-
 ## {Input-Process-Output (IPO) @unplugged}
 
 ![Traffic light output](https://i.postimg.cc/v860FsrR/traffic-light-manual-gif.gif)
