@@ -9,7 +9,6 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
  stop and go. This project will teach you about timing, automation, and the importance of 
  traffic rules. Ready to become a traffic light engineer? Let's go!
 
-![Traffic light output](https://github.com/Dinoopdas/traffic_light/blob/master/images/traffic%20light%20manual%20gif.gif?raw=true)
 
 
 ## Input-Process-Output (IPO)
