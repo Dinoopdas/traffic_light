@@ -1,6 +1,6 @@
 # Traffic Light Simulation
 
-## {Project Description @unplugged}
+## {Project Description}
 
 Have you ever wondered how traffic lights work? In this project, you'll build your very own
  traffic light system using just three colored LEDs: red, yellow, and green! You'll learn how 
@@ -12,7 +12,7 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
 ![Traffic light output](https://github.com/Dinoopdas/traffic_light/blob/master/images/traffic%20light%20manual%20gif.gif?raw=true)
 
 
-## {Input-Process-Output (IPO) @unplugged}
+## {Input-Process-Output (IPO)}
 
 
 The project has three main parts: input, processing, and output. Here's the breakdown:
