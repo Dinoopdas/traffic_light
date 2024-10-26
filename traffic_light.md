@@ -12,7 +12,6 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
 
 ## Input-Process-Output (IPO)
 
-
 The project has three main parts: input, processing, and output. Here's the breakdown:
 - **Processing**: Microbit
 - **Input**: Push button
