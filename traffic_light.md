@@ -6,7 +6,8 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
 
 ![Traffic light output](https://i.postimg.cc/v860FsrR/traffic-light-manual-gif.gif)
 
-## Input-Process-Output (IPO)
+## {Input-Process-Output (IPO) @unplugged}
+
 The project has three main parts: input, processing, and output. Here's the breakdown:
 - **Processing**: Microbit
 - **Input**: Push button
