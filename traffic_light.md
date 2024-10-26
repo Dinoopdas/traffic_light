@@ -2,11 +2,18 @@
 
 ## {Project Description @unplugged}
 
-Have you ever wondered how traffic lights work? In this project, you'll build your very own traffic light system using just three colored LEDs: red, yellow, and green! You'll learn how to set up a timer to automatically control the lights, just like at road intersections. You'll also add a button to control the lights manually, allowing you to decide when cars stop and go. This project will teach you about timing, automation, and the importance of traffic rules. Ready to become a traffic light engineer? Let's go!
+Have you ever wondered how traffic lights work? In this project, you'll build your very own
+ traffic light system using just three colored LEDs: red, yellow, and green! You'll learn how 
+ to set up a timer to automatically control the lights, just like at road intersections. 
+ You'll also add a button to control the lights manually, allowing you to decide when cars 
+ stop and go. This project will teach you about timing, automation, and the importance of 
+ traffic rules. Ready to become a traffic light engineer? Let's go!
+
+![Traffic light output](https://github.com/Dinoopdas/traffic_light/blob/master/images/traffic%20light%20manual%20gif.gif?raw=true)
+
 
 ## {Input-Process-Output (IPO) @unplugged}
 
-![Traffic light output](https://github.com/Dinoopdas/traffic_light/blob/master/images/traffic%20light%20manual%20gif.gif?raw=true)
 
 The project has three main parts: input, processing, and output. Here's the breakdown:
 - **Processing**: Microbit
