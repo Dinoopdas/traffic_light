@@ -6,7 +6,7 @@ Have you ever wondered how traffic lights work? In this project, you'll build yo
 
 ## {Input-Process-Output (IPO) @unplugged}
 
-![Traffic light output](https://i.postimg.cc/v860FsrR/traffic-light-manual-gif.gif)
+![Traffic light output](https://github.com/Dinoopdas/traffic_light/blob/master/images/traffic%20light%20manual%20gif.gif?raw=true)
 
 The project has three main parts: input, processing, and output. Here's the breakdown:
 - **Processing**: Microbit
